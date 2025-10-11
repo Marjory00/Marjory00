@@ -11,7 +11,7 @@
 
 🚀 Featured Projects:
 - [TruckOne App](https://github.com/Marjory00/TruckOne)
-- [CarDealerApp App](https://github.com/Marjory00/CarDealerApp)
+- [CarDealerApp](https://github.com/Marjory00/CarDealerApp)
 
 📫 Connect with me:
 - 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINK)
