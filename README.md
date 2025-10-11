@@ -10,8 +10,8 @@
 - Cloud deployment (Vercel / Netlify)
 
 🚀 Featured Projects:
-- [Cleanex Cleaning Website](https://github.com/Marjory00/TruckOne)
-- [Event Planner App](https://github.com/Marjory00/CarDealerApp)
+- [TruckOne App](https://github.com/Marjory00/TruckOne)
+- [CarDealerApp App](https://github.com/Marjory00/CarDealerApp)
 
 📫 Connect with me:
 - 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINK)
