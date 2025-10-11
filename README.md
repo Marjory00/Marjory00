@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Marjory!
 
-<!--
-**Marjory00/Marjory00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm a software developer passionate about:
+- Full-stack web development (Angular, Node.js, PostgreSQL, python, React)
+- Clean, responsive UI design with Tailwind & Bootstrap
+- Building scalable projects like **TruckOne** and **CarDealerApp**
 
-Here are some ideas to get you started:
+🌱 Currently achieving more experience in projects of App development, and learning more IT technologies:
+- Angular 20
+- Cloud deployment (Vercel / Netlify)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Featured Projects:
+- [Cleanex Cleaning Website](https://github.com/Marjory00/TruckOne)
+- [Event Planner App](https://github.com/Marjory00/CarDealerApp)
+
+📫 Connect with me:
+- 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINK)
+- 🌐 [Portfolio](https://github.com/Marjory00)
+- ✉️ Email: samaterra@hotmail.com
