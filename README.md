@@ -70,7 +70,7 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://codepen.io/Marjory00" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CodePen-0045250?style=for-the-badge&logo=codepen&logoColor=white"/>
   </a>
 </p>
 
