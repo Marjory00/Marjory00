@@ -70,17 +70,8 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://codepen.io/Marjory00" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-12472450?style=for-the-badge&logo=codepen&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CodePen-5c5470?style=for-the-badge&logo=codepen&logoColor=white"/>
   </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marjory00&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marjory00&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
