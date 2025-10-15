@@ -13,12 +13,10 @@
 🌱 Currently expanding my experience in **mobile & cloud app development** using the latest frameworks.
 
 ---
-### 👀 Profile Visitors
 
 <p align="center">
-  <img src="https://api.countapi.xyz/hit/Marjory00/profile_visits?label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views Counter" />
+  <img src="https://komarev.com/ghpvc/?username=Marjory00&style=for-the-badge" alt="Marjory's Profile Views" />
 </p>
-
 ---
 
 ### 🧠 Tech Stack & Tools
