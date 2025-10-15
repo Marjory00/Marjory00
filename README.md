@@ -14,11 +14,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Marjory00&style=for-the-badge" alt="Marjory's Profile Views" />
-</p>
----
-
 ### 🧠 Tech Stack & Tools
 
 <p align="center">
