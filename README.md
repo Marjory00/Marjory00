@@ -14,6 +14,11 @@
 
 ---
 
+![Visitor Count](https://profile-counter.glitch.me/Marjory00/count.svg)
+
+
+---
+
 ### 🧠 Tech Stack & Tools
 
 <p align="center">
