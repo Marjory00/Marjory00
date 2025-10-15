@@ -1,7 +1,7 @@
 <h1 align="center" Hi, I'm Marjory!</h1>
 
 <p align="center">
-  💻 <b>Full-Stack Software Developer</b> | 🌐 Passionate about building clean, scalable web applications  
+  <b>Full-Stack Software Developer</b> | Passionate about building clean, scalable web applications  
 </p>
 
 ---
