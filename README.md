@@ -13,9 +13,11 @@
 🌱 Currently expanding my experience in **mobile & cloud app development** using the latest frameworks.
 
 ---
+### 👀 Profile Visitors
 
-![Visitor Count](https://profile-counter.glitch.me/Marjory00/count.svg)
-
+<p align="center">
+  <img src="https://api.countapi.xyz/hit/Marjory00/profile_visits?label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views Counter" />
+</p>
 
 ---
 
