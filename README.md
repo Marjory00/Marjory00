@@ -93,6 +93,3 @@ I love crafting **clean, scalable, and efficient code**, with a focus on **respo
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Marjory00&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
-</p>
