@@ -1,10 +1,7 @@
-<h1 align="center">👋 Hi, I'm Marjory!</h1>
+<h1 align="center">🔵 Full-Stack Software Developer | 🌐 Passionate about building clean, scalable Web Applications</h1>
 
 <p align="center">
-  💻 <b>Full-Stack Software Developer | Angular | Node.js | React | PostgreSQL | MongoDB | C++</b><br>
-  🌟 Building responsive, data-driven web & mobile applications with modern frameworks
-</p>
-
+  </p>
 ---
 
 ### 🚀 About Me
