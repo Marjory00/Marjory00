@@ -68,16 +68,16 @@ I love crafting **clean, scalable, and efficient code**, with a focus on **respo
 
 ---
 
+
 ### 📈 GitHub Stats
 
 <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marjory00&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Marjory00's GitHub Stats"/>
-  
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marjory00&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&hide_rank=true" alt="Marjory00's GitHub Stats without rank"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marjory00&layout=compact&theme=tokyonight&hide_border=true" alt="Marjory00's Top Languages"/>
 </p>
 
-
 ---
+
 
 ### 📫 Connect with Me
 
