@@ -88,7 +88,7 @@ I love crafting **clean, scalable, and efficient code**, with a focus on **respo
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:samaterra@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-1B7A00?style=for-the-badge&logo=minutemailer&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-c50d66?style=for-the-badge&logo=minutemailer&logoColor=white"/>
   </a>
 </p>
 
