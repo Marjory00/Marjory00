@@ -1,37 +1,49 @@
-<h1 align="center" Hi, I'm Marjory!</h1>
+<h1 align="center">👋 Hi, I'm Marjory!</h1>
 
 <p align="center">
-  🔵  <b>Full-Stack Software Developer</b> | 🌐 Passionate about building clean, scalable Web Applications  
+  💻 <b>Full-Stack Software Developer | Angular | Node.js | React | PostgreSQL | MongoDB | C++</b><br>
+  🌟 Building responsive, data-driven web & mobile applications with modern frameworks
 </p>
 
 ---
 
 ### 🚀 About Me
 
-✨ I’m a **software developer** who enjoys creating powerful, responsive, and user-friendly apps.  
-💡 I focus on writing **clean, maintainable code** and designing modern UI/UX with the latest web technologies.  
-🌱 Currently expanding my experience in **mobile & cloud app development** using the latest frameworks.
+I'm a **software developer** specializing in **full-stack web and app development** using **Angular**, **Node.js**, **React**, **Python**, and **PostgreSQL**.
+I also have experience with cross-platform mobile development using **Ionic** and data visualization with **D3.js**.
+I love crafting **clean, scalable, and efficient code**, with a focus on **responsive UI/UX**, performance, and accessibility.
+
+🌱 Currently focusing on:
+- **Angular 20**, **RESTful APIs**, and **cloud deployment** with **Vercel** and **Netlify**
+- Expanding my experience in **mobile-first** and **enterprise-level** applications
+
+💬 I’m open to collaborating on:
+- Full-stack **Angular / Node.js** projects
+- **SaaS**, **logistics**, and **e-commerce** applications
+- Projects involving **high-performance systems** or **data visualization**
+- Any project needing **responsive design** and **modern UI frameworks**
 
 ---
 
 ### 🧠 Tech Stack & Tools
 
 <p align="center">
-  <!-- Frontend -->
   <img src="https://img.shields.io/badge/Angular-EE2C2C?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
-  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"/>
+
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 
-  <!-- Database -->
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
-  <!-- Tools & Platforms -->
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -40,20 +52,31 @@
 
 ---
 
-### 🧩 What I’m Currently Working On
+### 💼 Professional Summary
 
-- 🚛 **TruckOne App** – a logistics and fleet management platform  
-- 🚗 **CarDealerApp** – a modern dealership app with responsive UI and secure backend  
-- 🌐 Building new features with **Angular 20**, **Node.js**, and **PostgreSQL**
+🔹 Experienced in developing **end-to-end web applications** using **Angular**, **Node.js**, **React**, and both **SQL (PostgreSQL)** and **NoSQL (MongoDB)** databases.
+🔹 Skilled in creating **RESTful APIs**, **authentication systems**, and **database-driven dashboards**, including custom **data visualization** with **D3.js**.
+🔹 Passionate about **clean architecture**, **reusable components**, and **responsive design** for modern web and **cross-platform mobile** experiences.
 
 ---
 
 ### 🌟 Featured Projects
 
-| Project | Description | Link |
-|----------|--------------|------|
-| 🚛 **TruckOne App** | Fleet management & logistics dashboard | [View on GitHub](https://github.com/Marjory00/TruckOne) |
-| 🚗 **CarDealerApp** | Dealer management system with inventory UI | [View on GitHub](https://github.com/Marjory00/CarDealerApp) |
+| Project | Description | Tech Stack | Link |
+|----------|--------------|------------|------|
+| 🚛 **TruckOne App** | Fleet management and logistics web platform with driver tracking and admin dashboard. | Angular, Node.js, **MongoDB**, PostgreSQL | [View on GitHub](https://github.com/Marjory00/TruckOne) |
+| 🚗 **CarDealerApp** | Vehicle inventory and dealership management system with responsive UI. | React, Express.js, TailwindCSS | [View on GitHub](https://github.com/Marjory00/CarDealerApp) |
+| 📊 **DataViz Dashboard** | Interactive dashboard for complex dataset exploration and trend analysis. | React, **D3.js**, Express.js | [View on GitHub](https://github.com/Marjory00/DataVizDashboard) |
+| 📱 **CarparkApp** | Cross-platform mobile app for real-time car park availability and booking. | **Ionic**, Angular, Node.js, MongoDB | [View on GitHub](https://github.com/Marjory00/CarparkApp) |
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marjory00&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marjory00&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
@@ -69,9 +92,10 @@
   <a href="https://github.com/Marjory00" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://codepen.io/Marjory00" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-5c5470?style=for-the-badge&logo=codepen&logoColor=white"/>
-  </a>
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Marjory00&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
+</p>
