@@ -16,7 +16,7 @@ I love crafting **clean, scalable, and efficient code**, with a focus on **respo
 
 💬 I’m open to collaborating on:
 - Full-stack **Angular / Node.js** projects
-- **SaaS**, **logistics**, and **e-commerce** applications
+- **SaaS**, **logistics**, and **e-Commerce** applications
 - Projects involving **high-performance systems** or **data visualization**
 - Any project needing **responsive design** and **modern UI frameworks**
 
