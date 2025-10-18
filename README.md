@@ -6,9 +6,9 @@
 
 ### 🚀 About Me
 
-<h2>I'm a **software developer** specializing in **full-stack web and app development** using **Angular**, **Node.js**, **React**, **Python**, and **PostgreSQL**.
+I'm a **software developer** specializing in **full-stack web and app development** using **Angular**, **Node.js**, **React**, **Python**, and **PostgreSQL**.
 I also have experience with cross-platform mobile development using **Ionic** and data visualization with **D3.js**.
-I love crafting **clean, scalable, and efficient code**, with a focus on **responsive UI/UX**, performance, and accessibility.</h2>
+I love crafting **clean, scalable, and efficient code**, with a focus on **responsive UI/UX**, performance, and accessibility.
 
 🌱 Currently focusing on:
 - **Angular 20**, **RESTful APIs**, and **cloud deployment** with **Vercel** and **Netlify**
