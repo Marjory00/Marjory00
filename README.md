@@ -14,7 +14,7 @@ I love crafting **clean, scalable, and efficient code**, with a focus on **respo
 - **Angular 20**, **RESTful APIs**, and **cloud deployment** with **Vercel** and **Netlify**
 - Expanding my experience in **mobile-first** and **enterprise-level** applications
 
-💬 I’m open to collaborating on:
+💬 I'm open to collaborating on:
 - Full-stack **Angular / Node.js** projects
 - **SaaS**, **logistics**, and **e-Commerce** applications
 - Projects involving **high-performance systems** or **data visualization**
@@ -34,9 +34,11 @@ I love crafting **clean, scalable, and efficient code**, with a focus on **respo
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-for-the-badge&logo=netlify&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -57,6 +59,8 @@ I love crafting **clean, scalable, and efficient code**, with a focus on **respo
 
 | Project | Description | Tech Stack | Link |
 |----------|--------------|------------|------|
+| 🏛️ **PoliticAId** | **AI-powered legislative analysis platform** that tracks, summarizes, and analyzes U.S. congressional bills with **sentiment analysis**, NLP, and interactive dashboards. | **Angular**, **FastAPI**, **PostgreSQL**, Python, Hugging Face, Docker | [View on GitHub](https://github.com/Marjory00/politicaid) |
+| 🔍 **SEO Now Tool** | **Full-stack on-page SEO audit tool** that analyzes any public URL for meta tags, keyword density, readability, link health, and crawlability — returning a composite **SEO score out of 100**. | **React**, **FastAPI**, Python, TailwindCSS, BeautifulSoup | [View on GitHub](https://github.com/Marjory00/seo-now-tool) |
 | 🎓 **TomCollege Portal** | **Full-stack college dashboard** showcasing Angular **Standalone** architecture, **conditional layouts**, and **cross-origin API stability** (CORS). | **Angular**, **Node.js**, **Express.js**, TypeScript | [View on GitHub](https://github.com/Marjory00/TomCollege) |
 | 🚛 **TruckOne App** | Fleet management and logistics web platform with driver tracking and admin dashboard. | Angular, Node.js, **MongoDB**, PostgreSQL | [View on GitHub](https://github.com/Marjory00/TruckOne) |
 | 🚗 **CarDealerApp** | Vehicle inventory and dealership management system with responsive UI. | React, Express.js, TailwindCSS | [View on GitHub](https://github.com/Marjory00/CarDealerApp) |
